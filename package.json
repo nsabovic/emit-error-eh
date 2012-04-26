@@ -1,0 +1,26 @@
+{
+  "name": "emit-error-eh",
+  "version": "0.0.1",
+  "description": "See who's using sockets with no error handlers",
+  "keywords": [
+    "error",
+    "unhandled",
+    "exception"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nsabovic/emit-error-eh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nsabovic/emit-error-eh/issues"
+  },
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "contributors": [
+    {
+      "name": "Nebojsa Sabovic",
+      "email": "nsabovic@linkedin.com"
+    }
+  ]
+}
